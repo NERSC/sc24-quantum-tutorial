@@ -6,7 +6,7 @@ GPU-accelerated quantum simulations are increasingly being adopted in hybrid qua
 
 ## Tutorial Schedule
 
-The tutorial runs from 8:30am - 5:00pm EST.  There are four sessions with breaks in between.  The tentative agenda for each session follows:
+The tutorial runs from 8:30am - 5:00pm EST.  There are four sessions separated by breaks.  The tentative agenda for each session follows:
 
 * **8:30-10:00am:** Overview of methods of accelerating quantum simulation with GPUs including a hands-on QAOA example with CUDA-Q 
 * 10:00-10:30: Break
