@@ -12,7 +12,7 @@ The tutorial runs from 8:30am - 5:00pm EST.  There are four sessions separated b
 * 10:00-10:30: Break
 * **10:30-noon:** Live demo local install of CUDA-Q followed by an introduction to large scale clusters, how to navigate and use them 
 * noon-1:30pm: Lunch break
-* **1:30-3:00pm:** Hands-on Example: Quantum Chemistry at NERSC and a industry use case of simulating Hamiltonians of molecules with 30,000 terms
+* **1:30-3:00pm:** Hands-on Example: Quantum Chemistry and Nuclear Physics examples at NERSC and a industry use case of simulating Hamiltonians of molecules with 30,000 terms
 * 3:00-3:30pm: Break 
 * **3:30-5:00pm:** Finish the industry use case example, run a Quantum Resevoir Computing example with QuEra, and conclude the session
 
