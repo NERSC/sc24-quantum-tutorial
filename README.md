@@ -17,4 +17,4 @@ The tutorial runs from 8:30am - 5:00pm EST.  There are four sessions with breaks
 * **3:30-5:00pm:** Finish the industry use case example, run a Quantum Resevoir Computing example with QuEra, and conclude the session
 
 ## Resources
-The slides for all the sessions are collated [here](). Tutorial notebooks and other resources for each session are found in the directories of this repository.
+The slides for all the sessions are collated in the file [quantum-accelerated-supercomputing-sc24.pdf](quantum-accelerated-supercomputing-sc24.pdf). Tutorial notebooks and other resources for each session are found in the directories of this repository.
